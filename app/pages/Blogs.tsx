@@ -84,7 +84,7 @@ export default function Blogs() {
                     <div>
                       <h4 className="font-bold text-primary">Open House & Trial className</h4>
                       <p className="text-sm text-slate-500 flex items-center mt-1">
-                        <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                         08.00 - Selesai
                       </p>
                     </div>
@@ -97,7 +97,7 @@ export default function Blogs() {
                     <div>
                       <h4 className="font-bold text-primary">Wisuda Tahfidz Qur'an</h4>
                       <p className="text-sm text-slate-500 flex items-center mt-1">
-                        <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                         07.30 - 12.00
                       </p>
                     </div>
